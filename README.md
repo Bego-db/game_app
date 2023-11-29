@@ -1,16 +1,5 @@
 # game_app
+Kullanılan API : https://www.freetogame.com/api-doc 
 
-A new Flutter project.
+<img src="https://github.com/Bego-db/game_app/assets/120643757/48376f8a-c88b-445b-8749-ff89d1eb24b0" width="400"/> <img src="https://github.com/Bego-db/game_app/assets/120643757/571a9fde-1d27-4c6f-b3e1-e1d72152e2dd" width="400"/>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
