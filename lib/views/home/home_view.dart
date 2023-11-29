@@ -43,7 +43,7 @@ class _HomeViewState extends ConsumerState<HomeView> {
               child: SearchBarTextfield(watch: watch)),
           Expanded(
             child: ListView.builder(
-              physics: ClampingScrollPhysics(),
+                physics: ClampingScrollPhysics(),
                 itemCount: watch.allGameList.length,
                 itemBuilder: (BuildContext context, int index) {
                   return GamesCardWidget(

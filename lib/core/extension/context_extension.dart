@@ -5,6 +5,7 @@ extension ThemeExt on BuildContext {
   TextTheme get mytextTheme => theme.textTheme;
 }
 
+//contex ten padding e
 extension PaddingExtension on BuildContext {
   //All padding_
   EdgeInsets get allLow => const EdgeInsets.all(4);
@@ -27,7 +28,7 @@ extension PaddingExtension on BuildContext {
   static EdgeInsets all = const EdgeInsets.all(4);
 }
 
-// Doubla yazılmış padding extension u
+// int dan padding e
 extension Paaadding on int {
-  EdgeInsets get zero => EdgeInsets.all(this.toDouble());
+  EdgeInsets get all => EdgeInsets.all(this.toDouble());
 }
